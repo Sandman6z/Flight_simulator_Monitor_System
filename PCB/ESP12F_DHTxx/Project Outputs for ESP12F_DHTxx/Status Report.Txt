@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ESP12F_DHTxx.PrjPcb]
+   Generated File[system.GTO]
+   Generated File[system.GTP]
+   Generated File[system.GTS]
+   Generated File[system.GTL]
+   Generated File[system.GBL]
+   Generated File[system.GBS]
+   Generated File[system.GBP]
+   Generated File[system.GBO]
+   Generated File[system.GM1]
+   Generated File[system.GM13]
+   Generated File[system.GM15]
+   Generated File[system.GKO]
+   Generated File[system.GPT]
+   Generated File[system.GPB]
+   Generated File[system.RUL]
+   Generated File[system.EXTREP]
+   Generated File[system.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 14:38:12 On 2021/8/9

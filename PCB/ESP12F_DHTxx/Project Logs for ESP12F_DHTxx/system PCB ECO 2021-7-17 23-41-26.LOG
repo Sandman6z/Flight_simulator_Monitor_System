@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=Power-0
+Removed Pin From Net: NetName=+5 Pin=Power-1
+Removed Pin From Net: NetName=+5 Pin=Power-4
+Removed Pin From Net: NetName=GND Pin=Power-5
+Removed Pin From Net: NetName=GND Pin=Power-6
+Removed Pin From Net: NetName=GND Pin=Power-7
+Removed Pin From Net: NetName=GND Pin=Power-8
+Removed Pin From Net: NetName=GND Pin=Power-9
+Removed Member From Class: ClassName=Power Member=Power
+Added Component: Designator=*(Tpye-C)
+Added Pin To Net: NetName=GND Pin=*-0
+Added Pin To Net: NetName=+5 Pin=*-1
+Added Pin To Net: NetName=+5 Pin=*-4
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=GND Pin=*-6
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=GND Pin=*-8
+Added Pin To Net: NetName=GND Pin=*-9
+Added Member To Class: ClassName=Power Member=Component * Type-C
+Added Room: Name=ESP12F
+Added Room: Name=Power

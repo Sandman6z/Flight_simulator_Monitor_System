@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RXD Pin=COM-1
+Removed Pin From Net: NetName=GND Pin=COM-2
+Change Component Designator: OldDesignator=* NewDesignator=Sen1
+Added Pin To Net: NetName=TXD Pin=COM-1
+Added Pin To Net: NetName=RXD Pin=COM-2
+Added Pin To Net: NetName=GND Pin=COM-3

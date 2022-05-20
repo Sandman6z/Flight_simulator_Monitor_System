@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=TXD Pin=*-0
+Added Pin To Net: NetName=RXD Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Member To Class: ClassName=ESP12F Member=Component * UART_3pads
+Added Room: Name=ESP12F
+Added Room: Name=Power
