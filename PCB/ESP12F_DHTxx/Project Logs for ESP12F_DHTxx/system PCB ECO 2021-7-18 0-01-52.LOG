@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=*-0
-Removed Pin From Net: NetName=+5 Pin=*-1
-Removed Pin From Net: NetName=+5 Pin=*-4
-Removed Pin From Net: NetName=GND Pin=*-5
-Removed Pin From Net: NetName=GND Pin=*-6
-Removed Pin From Net: NetName=GND Pin=*-7
-Removed Pin From Net: NetName=GND Pin=*-8
-Removed Pin From Net: NetName=GND Pin=*-9
-Removed Member From Class: ClassName=Power Member=*

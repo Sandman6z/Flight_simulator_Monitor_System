@@ -1,8 +1,0 @@
-Removed Member From Class: ClassName=Power Member=*
-Change Component Designator: OldDesignator=* NewDesignator=Power_port
-Change Component Designator: OldDesignator=U? NewDesignator=U1
-Added Member To Class: ClassName=Power Member=Component Power_port Type-C
-Added Member To Class: ClassName=ESP12F Member=Component R23 Res3
-Added Member To Class: ClassName=ESP12F Member=Component R24 Res3
-Added Room: Name=ESP12F
-Added Room: Name=Power
