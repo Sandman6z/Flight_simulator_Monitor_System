@@ -1,5 +1,7 @@
 /*.exe
 /*.PrjPcbStructure
-/History
-/__Previews
+./History
+./__Previews
+History
+__Previews
 /Project Logs for *
