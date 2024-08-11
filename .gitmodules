@@ -1,0 +1,3 @@
+[submodule "Hardware/FlightSim_MonitorSys_Hardware"]
+	path = Hardware/FlightSim_MonitorSys_Hardware
+	url = git@github.com:Sandman6z/FlightSim_MonitorSys_Hardware.git
