@@ -1,3 +1,0 @@
-Record=TopLevelDocument|FileName=toplevel.SchDoc|SheetNumber= 
-Record=SheetSymbol|SourceDocument=toplevel.SchDoc|Designator=ESP12F|SchDesignator=ESP12F|FileName=Mainboard.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Mainboard.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=toplevel.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
